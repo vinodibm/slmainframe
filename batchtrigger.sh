@@ -1,3 +1,4 @@
+route add -net 192.168.0.0 netmask 255.255.255.0 gw 10.108.1.83
 echo "//RAMALINA JOB ACCT,         " > /root/tmpfile
 echo "//            RAMALIN,       " >> /root/tmpfile
 echo "//            CLASS=A,       " >> /root/tmpfile
